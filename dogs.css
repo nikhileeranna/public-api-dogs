@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    background-image: url(dog.jpg);
+}
+.heading {
+    font-family: fantasy;
+    font-size: 50px;
+    color:black; 
+    font-weight: bold;
+}
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    border: black 10px;
+    margin: 10px;
+} 
+.form{
+    float: right;
+    color: whitesmoke;
+}
